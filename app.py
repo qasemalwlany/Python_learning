@@ -1,3 +1,5 @@
+#اول سكربت
+#بتاريخ 5/4/2026
 NAME="Qasem"
 JOP="It"
 Hobby="Games and Programming"
